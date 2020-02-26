@@ -24,6 +24,6 @@ To account for the age difference among male groups, residual values were used i
 
 The model examined the effects of age*group, and was adjusted for the randomized effect of Gini.CT to account for potential nesting of data within census tracts.
 
-To adjust for multiple comparisons, FDR correction was evaluated using the ‘stats’ library in R.
+To adjust for multiple comparisons, false discovery rate (FDR) correction was evaluated using the ‘stats’ library in R.
 
 Currently searching for the most suitable method of post hoc comparison to examine group differences among personality facets that survived FDR correction.
