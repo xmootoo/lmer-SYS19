@@ -22,7 +22,7 @@ Females showed no differences (F = 0.35, p = 0.79), however, males displayed age
 
 To account for the age difference among male groups, residual values were used in the linear mixed effects regression analysis for males.
 
-The model examined the effects of age*income-income-inequality group, and was adjusted for the randomized effect of Gini.CT, to account for potential nesting of data within census tracts.
+The model examined the effects of age*group, and was adjusted for the randomized effect of Gini.CT to account for potential nesting of data within census tracts.
 
 To adjust for multiple comparisons, FDR correction was evaluated using the ‘stats’ library in R.
 
