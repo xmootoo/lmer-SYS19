@@ -26,4 +26,4 @@ The model examined the effects of age*group, and was adjusted for the randomized
 
 To adjust for multiple comparisons, false discovery rate (FDR) correction was evaluated using the ‘stats’ library in R.
 
-Currently searching for the most suitable method of post hoc comparison to examine group differences among personality facets that survived FDR correction.
+Currently searching for the most suitable method of post hoc comparison to examine group differences among personality facets that survived FDR correction (for this particular model).
