@@ -1,6 +1,6 @@
 # SYS: Income-Inequality & Personality Facets related to Agression (2019)
 
-This dataset included 1029 adolescents from the Saguenay Youth Study (SYS) who inhabit the Saguenay Lac Saint-Jean region in Quebec, Canada. Information consisted of:
+This dataset used included 1029 adolescents from the Saguenay Youth Study (SYS) who inhabit the Saguenay Lac Saint-Jean region in Quebec, Canada (data is proprietary so it cannot be released here). Information consisted of:
 
 •	Census Tract Area (for the Gini Index of Income-Inequality)
 
