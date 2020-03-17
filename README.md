@@ -8,7 +8,7 @@ This dataset used included 1029 adolescents from the Saguenay Youth Study (SYS) 
 
 •	Personality (NEO PI-R)
 
-The sample was filtered primarily for these characteristics, and a total of n = 821 adolescents were included in the analysis.
+The sample was filtered for participants who contained these features, whic resulted in a total of n = 821 adolescents that were included in the analysis.
 
 Cohort profile (SYS): https://www.ncbi.nlm.nih.gov/pubmed/27018016
 
